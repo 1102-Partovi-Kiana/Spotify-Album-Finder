@@ -11,11 +11,11 @@ Discover your favorite artist's albums in seconds! This **Album Finder** web app
 - 🚀 **Spotify API Integration:** Fetch real-time album data.
 - ⚡ **Fast Development with Vite:** Enjoy a seamless and quick development experience.
 
+https://github.com/user-attachments/assets/65ef3b4b-2e5e-4d3b-8911-24a5b2f590fa
+
 ---
 
 ## 📋 Prerequisites
-
-Before starting this project, make sure you have a basic understanding of:
 
 - **HTML, CSS, and JavaScript fundamentals**
 - **Node.js** and **npm**
